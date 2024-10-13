@@ -3,7 +3,8 @@
 
 <h3>The images of digits: </h3>
 
-![digits](https://github.com/user-attachments/assets/3ea53b17-0a92-4946-a768-228c979ea4ba)
+![Adsız](https://github.com/user-attachments/assets/f2d751de-8e31-400d-af89-c8113d802411)
+
 
 <h3>Here is some features and their targets: </h3>
 
